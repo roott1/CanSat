@@ -19,4 +19,4 @@ The final goal of the project is to launch a CanSat using a high-altitude balloo
 ## About the Web Server
 The [Web Server](https://codepen.io/Diego-Baeza/pen/NWJVZRj) is where you can easily visualize the information from the sensors.
 <br>
-the HTML and CSS files are uploaded directly to esp32 using SPIFFS
+HTML and CSS files are uploaded directly to esp32 using SPIFFS.
