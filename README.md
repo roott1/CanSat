@@ -17,7 +17,4 @@ The final goal of the project is to launch a CanSat using a high-altitude balloo
 </dl>
 
 ## About the Web Server
-The Web Server is where you can easily visualize the information from the sensors.
-<iframe name=frame src="web/main.html/" width=400 height=550 frameborder="0" scrolling=yes marginwidth=2 marginheight=4 align=left>:(</iframe>
-
-
+The [Web Server](https://codepen.io/Diego-Baeza/pen/NWJVZRj) is where you can easily visualize the information from the sensors.
