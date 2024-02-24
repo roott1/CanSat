@@ -1,4 +1,6 @@
-#About the Web Server
+# The Satellite initiative
+## Main ideas
+The final goal of the project is to launch a 
+## About the Web Server
 
-For the FrontEnd development of the Server i'm using [codepen.io](https://codepen.io)
 
