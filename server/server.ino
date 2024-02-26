@@ -5,11 +5,9 @@ const int LED = 12;
 const char* ssid = "Paulita";
 const char* password = "27101968";
 WebServer server(80);
-
 /**
   HTML       
 **/
-
 String SendHTML() {
   String ptr = "<!DOCTYPE html> <html>\n";
   ptr += "<head>\n";
